@@ -1,0 +1,17 @@
+[
+  {
+    "default": true,
+    "public": false,
+    "revocable": true,
+    "attributes": [
+      "name",
+      "emailAddress",
+      "program",
+      "iss_dateint"
+    ],
+    "schema_name": "BC VC Pilot Certificate",
+    "id": "GW9GbSntDFutu2qQra2DXd:2:BC VC Pilot Certificate:1.0.1",
+    "cred_def_id": "GW9GbSntDFutu2qQra2DXd:3:CL:25488:default",
+    "schema_version": "1.0.1"
+  }
+]

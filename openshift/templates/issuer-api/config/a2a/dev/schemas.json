@@ -1,0 +1,36 @@
+[
+  {
+    "default": true,
+    "public": false,
+    "revocable": true,
+    "attributes": [
+      "PPID",
+      "Surname",
+      "Given Name",
+      "Member Status",
+      "Member Status Code",
+      "Issuer"
+    ],
+    "id":"RznYFPVhHpYZgsn4Hu3StV:2:Member Certificate:1.0.1",
+    "cred_def_id": "RznYFPVhHpYZgsn4Hu3StV:3:CL:208924:default",
+    "schema_name": "Member Certificate",
+    "schema_version": "1.0.1"
+  },
+  {
+    "default": false,
+    "public": false,
+    "revocable": false,
+    "attributes": [
+      "PPID",
+      "Surname",
+      "Given Name",
+      "Member Status",
+      "Member Status Code",
+      "Issuer"
+    ],
+    "schema_name": "Member Certificate",
+    "id": "RznYFPVhHpYZgsn4Hu3StV:2:Member Certificate:0.5.0",
+    "cred_def_id": "RznYFPVhHpYZgsn4Hu3StV:3:CL:233475:default",
+    "schema_version": "0.5.0"
+  }
+]

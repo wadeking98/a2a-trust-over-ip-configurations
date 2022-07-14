@@ -10,6 +10,8 @@
       "iss_dateint"
     ],
     "schema_name": "BC VC Pilot Certificate",
+    "id": "3Lbd5wSSSBv1xtjwsQ36sj:2:BC VC Pilot Certificate:1.0.1",
+    "cred_def_id": "3Lbd5wSSSBv1xtjwsQ36sj:3:CL:25517:default",
     "schema_version": "1.0.1"
   }
 ]
